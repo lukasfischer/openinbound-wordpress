@@ -22,9 +22,9 @@ OpenInbound is like Google Analytics but instead of tracking visits and page vie
 
 == Frequently Asked Questions ==
 
-= A question that someone might have =
+= Where can I find up-to-date FAQs =
 
-An answer to that question.
+Please find up-to-date FAQs on http://openinbound.com/faq.
 
 == Screenshots ==
 
